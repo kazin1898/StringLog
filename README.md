@@ -102,25 +102,6 @@ Get Spotify credentials at [developer.spotify.com](https://developer.spotify.com
 
 ---
 
-## 🗺️ Roadmap
-
-### Phase 2 (In Progress)
-- [ ] AI-powered practice routine generator
-- [ ] Skill assessment algorithm
-- [ ] Practice templates library
-- [ ] Goal tracking with reminders
-- [ ] Export/import data (JSON, CSV)
-
-### Phase 3 (Future)
-- [ ] Cloud sync (Supabase/PostgreSQL)
-- [ ] Multiple user profiles
-- [ ] Metronome integration
-- [ ] Video uploads for technique notes
-- [ ] Social features (share progress)
-- [ ] Mobile app (React Native)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
