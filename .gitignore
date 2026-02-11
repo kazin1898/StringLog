@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# development/prompt files
+part3.md
+PROMPT.md
+IMPLEMENTATION_CONTEXT.md
+GIT.md
+nul
